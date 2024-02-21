@@ -97,7 +97,6 @@ Welcome to **Mitho-Mitho**, your ultimate foodie companion designed to enhance y
 
 ---
 
-Feel free to adjust the format or add any additional information as needed!
 
 ## 🌟 Features
 
